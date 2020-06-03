@@ -63,11 +63,11 @@ ul li {
     background-color: #FFF;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #15BD40;
+    background-color: #2a89cd;
 }
 .btn-primary {
     color: #fff;
-    background-color: #15BD40;
+    background-color: #2a89cd;
     padding: 10px;
     margin-bottom: 10px;
     border-radius: 0;
@@ -113,7 +113,7 @@ ul li {
 	transition: all 0.3s;
 }
 .custom-btn:hover {
-	background-color: #15BD40;
+	background-color: #2a89cd;
 	color: #fff;
 	border-color: transparent;
 }
@@ -176,7 +176,7 @@ textarea:focus {
 .service .media-right i.fa {
     text-align: center;
     font-size: 45px;
-    color: #15BD40;
+    color: #2a89cd;
     padding: 25px 0;
     border-radius: 50px;
     margin: 0 10px;
@@ -188,7 +188,7 @@ textarea:focus {
 .service .media-left i.fa {
     text-align: center;
     font-size: 45px;
-    color: #15BD40;
+    color: #2a89cd;
     padding: 25px 0;
     border-radius: 50px;
     margin: 0 10px;
@@ -310,7 +310,7 @@ header {
 	line-height: 35px;
 }
 .navigation .navbar-default {
-	background-color: #15BD40;
+	background-color: #2a89cd;
 	border: none;
 	border-radius: 0;
 	clear: both;
@@ -747,8 +747,8 @@ header {
 	transition: all 0.3s;
 }
 .input-group-addon:hover {
-	background-color: #15BD40;
-	border-color: #15BD40;
+	background-color: #2a89cd;
+	border-color: #2a89cd;
 	color: #fff;
 }
 
@@ -784,7 +784,7 @@ header {
 }
 .download {
 	/* background-image: url(../images/pattern5.png); */
-	background-color: #15BD40;
+	background-color: #2a89cd;
 	color: #fff;
 }
 .download .underline:before,
@@ -863,8 +863,8 @@ header {
 	font-size: 20px;
 	font-weight: 400;
 	margin-bottom: 50px;
-	background-color: #15BD40;
-	border: 2px solid #15BD40;
+	background-color: #2a89cd;
+	border: 2px solid #2a89cd;
 }
 .footer .contact .contact-submit i {
 	margin-right: 10px;
